@@ -42,4 +42,7 @@ flowchart LR
 | Huntington's                   | Overactive dopamine = chorea, **dementia**, behavioral abnormality |
 | Dystonia                       | Sustained or intermittent contraction                              |
 | X-linked Dystonia Parkinsonism | Males, Filipino, Dystonia                                          |
-| Wilson's                       | Kayser-Fleishner eyes, liver + basal ganglia                                                                   |
+| Wilson's                       | Kayser-Fleishner eyes, liver + basal ganglia                       |
+| Parkinsonism                   | Restring tremor, bradykinesia, rigidity                            |
+| Tics                           | Coordinated, repetitive, abnormal movement                         |
+| Tourette                       | Snorting, sniffing, and involuntary vocalization                                                                   |
