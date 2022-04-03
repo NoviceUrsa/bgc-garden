@@ -16,18 +16,40 @@
 		- **Degenerative**
 
 ## Localizations
-| Case                                                     | Localization         |
-| -------------------------------------------------------- | -------------------- |
-| **Headache** + Pain on Movement of Neck                      | Meninges             |
-| Fever + **Uncontrollable** Irregular Movement                | [[pages/Basal Ganglia|Basal Ganglia]]    |
-| Sudden onset right face and arm weakness                 | Cerebral Hemisphere  |
-| Right arm weakness + **aphasia**                         | Left cortical        |
-| Right face weakness + Right hemipalate does not elevate | Brainstem            |
-| Sudden onset left face + right arm weakness              | Brainstem            |
-| Right face, arm, and leg weakness                        | Left subcortical     |
-| Wild flinging motion of left arm and leg                 | Right subcortical    |
-| Neck Pain + Quadriparesis                                | Cervical Spinal Cord |
-| Gradual difficulty walking + Belt sensation of trunk     | Spinal Cord          |
-| Right and left arms weak                                 | Spinal Cord                     |
-| Right hand atrophy                                       | Peripheral nerve     |
+| Case                                                                        | Localization         |
+| --------------------------------------------------------------------------- | -------------------- |
+| **Headache** + Pain on Movement of Neck                                     | Meninges             |
+| Fever + **Uncontrollable** Irregular Movement                               | Basal Ganglia        |
+| Sudden onset right face and arm weakness                                    | Cerebral Hemisphere  |
+| Right arm weakness + **aphasia**                                            | Left cortical        |
+| **Behavioral Change** + Left Homonymous Hemianopia + Left Sensorimotor Loss | Right Parietal Lobe  |
+| **Language Difficulty**                                                     | Left Parietal Lobe   |
+| Right face weakness + Right hemipalate does not elevate                     | Brainstem            |
+| Sudden onset left face + right arm weakness                                 | Brainstem            |
+| Right face, arm, and leg weakness                                           | Left subcortical     |
+| Wild flinging motion of left arm and leg                                    | Right subcortical    |
+| Neck Pain + Quadriparesis                                                   | Cervical Spinal Cord |
+| Gradual difficulty walking + **Belt sensation** of trunk                        | Spinal Cord          |
+| Right and left arms weak                                                    | Spinal Cord          |
+| Right hand atrophy                                                          | Peripheral nerve     |
 
+# Motor System
+## Repeating
+1. False statement with regard to the **corticobulbar tract**
+	- **Indirect pathway from primary motor cortex to spinal cord** #B23
+	- **Synapse with Anterior Horn Cells of Spinal Cord** #B22
+	- Begins in motor cortex
+	- Synapse with cranial nerve motor nuclei
+	- Fibers leave pyramidal pathway at several levels
+2. Location of the **decussated** fibers of the Corticospinal Tract in the spinal cord #B23  #B22 
+	- Answer: **Lateral Funniculus**
+	- Explanation: Decussated fibers refer to the **lateral CST** which is located at the lateral funniculus while the non-decussated refers to the **anterior CST** found in the anterior funniculus
+
+## Important Notes
+```ad-important
+title: Cerebellum vs. Basal Ganglia Disorders
+
+**Cerebellum:** Awkward intentional movements ipsilateral to the lesion
+
+**Basal Ganglia:** Unexpected meaningless unintentional movements contralateral to lesion
+```
