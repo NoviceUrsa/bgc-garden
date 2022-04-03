@@ -53,3 +53,27 @@ title: Cerebellum vs. Basal Ganglia Disorders
 
 **Basal Ganglia:** Unexpected meaningless unintentional movements contralateral to lesion
 ```
+
+### Corticospinal Tract
+```mermaid
+graph TD
+	subgraph Cerebrum
+	A[Motor Cortex]--converge-->B[Corona Radiata]
+	B--Pass Inferiorly-->C[Posterior Internal Capsule]
+	end
+	
+	subgraph Brainstem
+	C-->D[Cerebral Peduncles of Midbrain]
+	D-->E[Pons]
+	E-->F[Medulla]
+	end
+	
+	subgraph Spinal Cord
+	F--Decussates in Anterior Aspect-->G[Lateral CST]
+	F--Does not Decussate-->H[Anterior CST]
+	G & H --> I[Anterior Gray Horn of Spinal Cord]
+	I-->J[Ventral Root]
+	end
+	J-->K[Peripheral Nerves]
+	
+```
