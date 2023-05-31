@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/reviewer-for-e01-os-211-neuro/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/pages/reviewer-for-e01-os-211-neuro/"}
 ---
 
 # Pages
